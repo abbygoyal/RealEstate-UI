@@ -1,6 +1,6 @@
 ## Real-Estate-Project-complete
 
-The completed version of our monsters rolodex project!
+The completed version of our monsters rolodex project.
 
 ## Live Project Link
 [Real Estate -MarketPlace Project](https://properties-marketplace.netlify.app/)
